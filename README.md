@@ -3,7 +3,6 @@
 CLI task manager written in go.
 
 - Project idea from [roadmap.sh](https://roadmap.sh/projects/task-tracker)
-- Tasks are written in a json file saved in `~/Documents/tasks.json`
 
 ### Available commands
 
