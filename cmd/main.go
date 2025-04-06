@@ -7,7 +7,7 @@ import (
 	"strconv"
 )
 
-const filename = "~/Documents/tasks.json"
+const filename = "tasks.json"
 
 func main() {
 	if len(os.Args) < 2 {
